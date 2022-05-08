@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @imedits
 - 👀 I’m interested in building new stuff 
 - 🌱 I’m currently learning new stuff  
-- 💞️ I support collaboration !
+- 💞️ I support collaboration !!
 - 
 
 <!---
